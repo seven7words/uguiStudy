@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_UGUI.-997081916.00" t="ExcludeRecursive" />
+    <e p="D:\github\uguiStudy\UGUI" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Test" t="Include">
+          <e p="sfd.cs" t="Include" />
+        </e>
+        <e p="testddd.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="com.unity.ugui" t="Include">
+          <e p="Editor" t="Include">
+            <e p="EventSystem" t="Include">
+              <e p="EventSystemEditor.cs" t="Include" />
+              <e p="EventTriggerEditor.cs" t="Include" />
+              <e p="Physics2DRaycasterEditor.cs" t="Include" />
+              <e p="PhysicsRaycasterEditor.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="AspectRatioFitterEditor.cs" t="Include" />
+              <e p="ButtonEditor.cs" t="Include" />
+              <e p="CanvasScalerEditor.cs" t="Include" />
+              <e p="ContentSizeFitterEditor.cs" t="Include" />
+              <e p="DropdownEditor.cs" t="Include" />
+              <e p="GraphicEditor.cs" t="Include" />
+              <e p="GridLayoutGroupEditor.cs" t="Include" />
+              <e p="HorizontalOrVerticalLayoutGroupEditor.cs" t="Include" />
+              <e p="ImageEditor.cs" t="Include" />
+              <e p="InputFieldEditor.cs" t="Include" />
+              <e p="InterceptedEventsPreview.cs" t="Include" />
+              <e p="LayoutElementEditor.cs" t="Include" />
+              <e p="LayoutPropertiesPreview.cs" t="Include" />
+              <e p="MaskEditor.cs" t="Include" />
+              <e p="MenuOptions.cs" t="Include" />
+              <e p="PrefabLayoutRebuilder.cs" t="Include" />
+              <e p="PropertyDrawers" t="Include">
+                <e p="AnimationTriggersDrawer.cs" t="Include" />
+                <e p="ColorBlockDrawer.cs" t="Include" />
+                <e p="DropdownOptionListDrawer.cs" t="Include" />
+                <e p="FontDataDrawer.cs" t="Include" />
+                <e p="NavigationDrawer.cs" t="Include" />
+                <e p="SpriteStateDrawer.cs" t="Include" />
+              </e>
+              <e p="RawImageEditor.cs" t="Include" />
+              <e p="RectMask2DEditor.cs" t="Include" />
+              <e p="ScrollbarEditor.cs" t="Include" />
+              <e p="ScrollRectEditor.cs" t="Include" />
+              <e p="SelectableEditor.cs" t="Include" />
+              <e p="SelfControllerEditor.cs" t="Include" />
+              <e p="SliderEditor.cs" t="Include" />
+              <e p="SpriteDrawUtility.cs" t="Include" />
+              <e p="TextEditor.cs" t="Include" />
+              <e p="ToggleEditor.cs" t="Include" />
+            </e>
+            <e p="UnityEditor.UI.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="EventSystem" t="Include">
+              <e p="EventData" t="Include">
+                <e p="AxisEventData.cs" t="Include" />
+                <e p="BaseEventData.cs" t="Include" />
+                <e p="PointerEventData.cs" t="Include" />
+              </e>
+              <e p="EventHandle.cs" t="Include" />
+              <e p="EventInterfaces.cs" t="Include" />
+              <e p="EventSystem.cs" t="Include" />
+              <e p="EventTrigger.cs" t="Include" />
+              <e p="EventTriggerType.cs" t="Include" />
+              <e p="ExecuteEvents.cs" t="Include" />
+              <e p="InputModules" t="Include">
+                <e p="BaseInput.cs" t="Include" />
+                <e p="BaseInputModule.cs" t="Include" />
+                <e p="PointerInputModule.cs" t="Include" />
+                <e p="StandaloneInputModule.cs" t="Include" />
+                <e p="TouchInputModule.cs" t="Include" />
+              </e>
+              <e p="MoveDirection.cs" t="Include" />
+              <e p="RaycasterManager.cs" t="Include" />
+              <e p="Raycasters" t="Include">
+                <e p="BaseRaycaster.cs" t="Include" />
+                <e p="Physics2DRaycaster.cs" t="Include" />
+                <e p="PhysicsRaycaster.cs" t="Include" />
+              </e>
+              <e p="RaycastResult.cs" t="Include" />
+              <e p="UIBehaviour.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="Animation" t="Include">
+                <e p="CoroutineTween.cs" t="Include" />
+              </e>
+              <e p="Core" t="Include">
+                <e p="AnimationTriggers.cs" t="Include" />
+                <e p="Button.cs" t="Include" />
+                <e p="CanvasUpdateRegistry.cs" t="Include" />
+                <e p="ColorBlock.cs" t="Include" />
+                <e p="Culling" t="Include">
+                  <e p="ClipperRegistry.cs" t="Include" />
+                  <e p="Clipping.cs" t="Include" />
+                  <e p="IClipRegion.cs" t="Include" />
+                  <e p="RectangularVertexClipper.cs" t="Include" />
+                </e>
+                <e p="DefaultControls.cs" t="Include" />
+                <e p="Dropdown.cs" t="Include" />
+                <e p="FontData.cs" t="Include" />
+                <e p="FontUpdateTracker.cs" t="Include" />
+                <e p="Graphic.cs" t="Include" />
+                <e p="GraphicRaycaster.cs" t="Include" />
+                <e p="GraphicRebuildTracker.cs" t="Include" />
+                <e p="GraphicRegistry.cs" t="Include" />
+                <e p="IGraphicEnabledDisabled.cs" t="Include" />
+                <e p="Image.cs" t="Include" />
+                <e p="IMask.cs" t="Include" />
+                <e p="IMaskable.cs" t="Include" />
+                <e p="InputField.cs" t="Include" />
+                <e p="Layout" t="Include">
+                  <e p="AspectRatioFitter.cs" t="Include" />
+                  <e p="CanvasScaler.cs" t="Include" />
+                  <e p="ContentSizeFitter.cs" t="Include" />
+                  <e p="GridLayoutGroup.cs" t="Include" />
+                  <e p="HorizontalLayoutGroup.cs" t="Include" />
+                  <e p="HorizontalOrVerticalLayoutGroup.cs" t="Include" />
+                  <e p="ILayoutElement.cs" t="Include" />
+                  <e p="LayoutElement.cs" t="Include" />
+                  <e p="LayoutGroup.cs" t="Include" />
+                  <e p="LayoutRebuilder.cs" t="Include" />
+                  <e p="LayoutUtility.cs" t="Include" />
+                  <e p="VerticalLayoutGroup.cs" t="Include" />
+                </e>
+                <e p="Mask.cs" t="Include" />
+                <e p="MaskableGraphic.cs" t="Include" />
+                <e p="MaskUtilities.cs" t="Include" />
+                <e p="MaterialModifiers" t="Include">
+                  <e p="IMaterialModifier.cs" t="Include" />
+                </e>
+                <e p="Misc.cs" t="Include" />
+                <e p="MultipleDisplayUtilities.cs" t="Include" />
+                <e p="Navigation.cs" t="Include" />
+                <e p="RawImage.cs" t="Include" />
+                <e p="RectMask2D.cs" t="Include" />
+                <e p="Scrollbar.cs" t="Include" />
+                <e p="ScrollRect.cs" t="Include" />
+                <e p="Selectable.cs" t="Include" />
+                <e p="SetPropertyUtility.cs" t="Include" />
+                <e p="Slider.cs" t="Include" />
+                <e p="SpecializedCollections" t="Include">
+                  <e p="IndexedSet.cs" t="Include" />
+                </e>
+                <e p="SpriteState.cs" t="Include" />
+                <e p="StencilMaterial.cs" t="Include" />
+                <e p="Text.cs" t="Include" />
+                <e p="Toggle.cs" t="Include" />
+                <e p="ToggleGroup.cs" t="Include" />
+                <e p="Utility" t="Include">
+                  <e p="ListPool.cs" t="Include" />
+                  <e p="ObjectPool.cs" t="Include" />
+                  <e p="ReflectionMethodsCache.cs" t="Include" />
+                  <e p="VertexHelper.cs" t="Include" />
+                </e>
+                <e p="VertexModifiers" t="Include">
+                  <e p="BaseMeshEffect.cs" t="Include" />
+                  <e p="IMeshModifier.cs" t="Include" />
+                  <e p="Outline.cs" t="Include" />
+                  <e p="PositionAsUV1.cs" t="Include" />
+                  <e p="Shadow.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="UnityEngine.UI.asmdef" t="Include" />
+          </e>
+          <e p="Tests" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Canvas" t="Include">
+                <e p="AssertionFailureOnOutputVertexCount.cs" t="Include" />
+                <e p="CanvasElementsMaintainValidPositionsWhenCameraOrthoSizeIsZero.cs" t="Include" />
+                <e p="CanvasWidthAssertionErrorWithRectTransform.cs" t="Include" />
+                <e p="RootCanvasTests.cs" t="Include" />
+                <e p="UISystemProfilerAddMarkerWithNullObjectDoesNotCrash.cs" t="Include" />
+              </e>
+              <e p="CanvasRenderer" t="Include">
+                <e p="ChangingHierarchyOfCanvasRenderer.cs" t="Include" />
+                <e p="ParentCanvasIsSane.cs" t="Include" />
+              </e>
+              <e p="EventSystem" t="Include">
+                <e p="InterceptedEventsPreviewTests.cs" t="Include" />
+              </e>
+              <e p="InputField" t="Include">
+                <e p="CharacterLimitValidation.cs" t="Include" />
+                <e p="ContentValidation.cs" t="Include" />
+              </e>
+              <e p="RectMask2D" t="Include">
+                <e p="RectMask2DCulling.cs" t="Include" />
+                <e p="RectTransformPosition.cs" t="Include" />
+              </e>
+              <e p="Slider" t="Include">
+                <e p="SliderRectReferences.cs" t="Include" />
+              </e>
+              <e p="TestBehaviourBase.cs" t="Include" />
+              <e p="Text" t="Include">
+                <e p="FontCreatedByScript.cs" t="Include" />
+              </e>
+              <e p="UnityEditor.UI.EditorTests.asmdef" t="Include" />
+              <e p="UnityEvent" t="Include">
+                <e p="UnityEventInvoke.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="Button" t="Include">
+                <e p="ButtonTests.cs" t="Include" />
+                <e p="TestButton.cs" t="Include" />
+              </e>
+              <e p="Canvas" t="Include">
+                <e p="BridgeScriptForRetainingObjects.cs" t="Include" />
+                <e p="CanvasGroupInheritedAlpha.cs" t="Include" />
+                <e p="CanvasScalerWithChildTextObjectDoesNotCrash.cs" t="Include" />
+                <e p="CanvasSizeCorrectInAwakeAndStart.cs" t="Include" />
+                <e p="CanvasSizeCorrectInAwakeAndStartScript.cs" t="Include" />
+                <e p="CheckMeshColorsAndColors32Match.cs" t="Include" />
+                <e p="CoroutineWorksIfUIObjectIsAttached.cs" t="Include" />
+                <e p="CreateSceneUtility.cs" t="Include" />
+                <e p="NestedCanvas.cs" t="Include" />
+                <e p="NestedCanvasMaintainsCorrectSize.cs" t="Include" />
+                <e p="NoActiveCameraInSceneDoesNotCrashEditor.cs" t="Include" />
+                <e p="RectMask2DWithNestedCanvasCullsUsingCorrectCanvasRect.cs" t="Include" />
+                <e p="RectTransformValidAfterEnable.cs" t="Include" />
+                <e p="SiblingOrderChangesLayout.cs" t="Include" />
+              </e>
+              <e p="Dropdown" t="Include">
+                <e p="DropdownTests.cs" t="Include" />
+              </e>
+              <e p="EventSystem" t="Include">
+                <e p="GraphicRaycasterTests.cs" t="Include" />
+                <e p="GraphicRaycasterWorldSpaceCanvasTests.cs" t="Include" />
+                <e p="InputModuleTests" t="Include">
+                  <e p="DragCallbackCheck.cs" t="Include" />
+                  <e p="FakeBaseInput.cs" t="Include" />
+                  <e p="MouseUpdate.cs" t="Include" />
+                  <e p="PointerClickCallbackCheck.cs" t="Include" />
+                </e>
+                <e p="InputModuleTests.cs" t="Include" />
+                <e p="PhysicsRaycasterTests.cs" t="Include" />
+                <e p="RaycastSortingTests.cs" t="Include" />
+                <e p="SelectableTests.cs" t="Include" />
+              </e>
+              <e p="Graphic" t="Include">
+                <e p="GraphicTests.cs" t="Include" />
+                <e p="ImageTests.cs" t="Include" />
+                <e p="MaskTests.cs" t="Include" />
+                <e p="RawImageTest.cs" t="Include" />
+                <e p="RawImageTestHook.cs" t="Include" />
+                <e p="ToggleTestImageHook.cs" t="Include" />
+              </e>
+              <e p="Image" t="Include">
+                <e p="ImageFilledGenerateWork.cs" t="Include" />
+                <e p="ImageTests.cs" t="Include" />
+                <e p="TestableImage.cs" t="Include" />
+              </e>
+              <e p="InputField" t="Include">
+                <e p="DesktopInputFieldTests.cs" t="Include" />
+                <e p="FakeInputModule.cs" t="Include" />
+                <e p="GenericInputFieldTests.cs" t="Include" />
+                <e p="InputFieldTests.cs" t="Include" />
+                <e p="TouchInputFieldTests.cs" t="Include" />
+              </e>
+              <e p="Layout" t="Include">
+                <e p="ContentSizeFitterTests.cs" t="Include" />
+                <e p="GridLayoutGroupTests.cs" t="Include" />
+                <e p="HorizonalLayoutGroupTests.cs" t="Include" />
+                <e p="LayoutGroupScaling.cs" t="Include" />
+                <e p="VerticalLayoutGroupTests.cs" t="Include" />
+              </e>
+              <e p="LayoutGroup" t="Include">
+                <e p="LayoutGroupArrangement.cs" t="Include" />
+              </e>
+              <e p="MaskClipping" t="Include">
+                <e p="RectMask2DClipping.cs" t="Include" />
+              </e>
+              <e p="NestedLayout" t="Include">
+                <e p="SceneWithNestedLayoutElementsLoads.cs" t="Include" />
+                <e p="SceneWithNestedLayoutElementsLoadScript.cs" t="Include" />
+              </e>
+              <e p="ScrollBar" t="Include">
+                <e p="ScrollBarClamp.cs" t="Include" />
+                <e p="ScrollBarTests.cs" t="Include" />
+              </e>
+              <e p="ScrollRect" t="Include">
+                <e p="ScrollRectClamp.cs" t="Include" />
+                <e p="ScrollRectScale.cs" t="Include" />
+                <e p="ScrollRectStableLayout.cs" t="Include" />
+                <e p="ScrollRectTests.cs" t="Include" />
+              </e>
+              <e p="Slider" t="Include">
+                <e p="SliderTests.cs" t="Include" />
+              </e>
+              <e p="TextEditor" t="Include">
+                <e p="TextEditorBackspaceDelete.cs" t="Include" />
+                <e p="TextEditorTests.cs" t="Include" />
+              </e>
+              <e p="Toggle" t="Include">
+                <e p="TestableToggleGroup.cs" t="Include" />
+                <e p="ToggleGroupTests.cs" t="Include" />
+                <e p="ToggleTests.cs" t="Include" />
+              </e>
+              <e p="UnityEngine.UI.Tests.asmdef" t="Include" />
+              <e p="Util" t="Include">
+                <e p="ConcreteGraphic.cs" t="Include" />
+                <e p="ExceptionUtils.cs" t="Include" />
+                <e p="GraphicTestHelper.cs" t="Include" />
+                <e p="ImageHook.cs" t="Include" />
+                <e p="PrivateFieldSetter.cs" t="Include" />
+                <e p="UIBehaviourExtensions.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="UGUI.sln" t="IncludeFlat" />
+      <e p="UnityEditor.UI.csproj" t="IncludeRecursive" />
+      <e p="UnityEditor.UI.EditorTests.csproj" t="IncludeRecursive" />
+      <e p="UnityEngine.UI.csproj" t="IncludeRecursive" />
+      <e p="UnityEngine.UI.Tests.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
